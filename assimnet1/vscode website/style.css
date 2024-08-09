@@ -53,3 +53,15 @@ main{
     display: flex;
     color: #fff;
 }
+.nav-pages{
+    color: rgb(160, 160, 160);
+}
+.out-text-box{
+    border: 2px solid gray;
+    background-color: #1e1f23;
+    color: #9ba3b4;
+    display: flex;
+    justify-content: center;
+    padding: 0.4vw;
+    
+}
